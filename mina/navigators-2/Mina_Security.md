@@ -428,6 +428,7 @@ Each Stage includes these development streams:
 ## Team Info
 - Mikhail Korotkikh - smart contract developer
 - Vitali Horba - project manager
+- Viachaslau Horba - devOps
 - Dzmitry Sakalou - analyst
 - Evgeni Haurushou - front-end developer
 - Vitali Karpuk - front-end developer
